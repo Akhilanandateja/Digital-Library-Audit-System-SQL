@@ -137,4 +137,4 @@ This project demonstrates:
 
 ## 📌 Note
 
-All SQL queries used in this project are available in the `library_project.sql` file.
+All SQL queries used in this project are available in the `library_audit_queries.sql` file.
